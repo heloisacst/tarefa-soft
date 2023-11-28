@@ -1,2 +1,3 @@
-# tarefa-soft
-Repositório para a disciplina de SOFT.
+# Tarefa SOFT
+## Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Proin vehicula justo vel ligula cursus, at gravida dolor condimentum. Quisque in ante vel ipsum facilisis accumsan. Sed euismod urna vel dolor laoreet, ac tincidunt velit convallis. Integer id tortor euismod, sodales elit in, fermentum odio. Etiam vel efficitur justo. Nunc at aliquet metus. Vivamus tincidunt dui vel elit ullamcorper, a posuere elit malesuada. Sed eget efficitur ipsum. Cras vel arcu vel dolor ultrices laoreet nec vitae lacus. Curabitur at ex eget justo venenatis malesuada.
